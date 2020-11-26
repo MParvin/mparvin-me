@@ -1,9 +1,9 @@
 # Site settings
 title: Mohammad Parvin
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'https://mparvin.me'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/mparvin.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-114794438-1
 font_awesome: 'XXXXXXXXXX.js'
@@ -15,7 +15,7 @@ author:
 #  facebook_username: joshgerdes
   github_username:  MParvin
   linkedin_username:  MParvin
-  meetup_name: Azure-Meetup-Rostock-MV
+  meetup_name: mparvin
 
 # Build settings
 destination: _site
