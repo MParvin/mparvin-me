@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/mparvin.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-114794438-1
-font_awesome: '53d7a3a62b.js'
+font_awesome: '2f5da237b6.js'
 
 author:
   name: 'Mohammad Parvin'
