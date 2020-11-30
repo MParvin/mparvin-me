@@ -11,11 +11,11 @@ font_awesome: '2f5da237b6.js'
 author:
   name: 'Mohammad Parvin'
   email: me@mparvin.me
-  twitter_username: mparvin
-#  facebook_username: joshgerdes
+  # twitter_username: mmparvin
+  # facebook_username: mmparvin
   github_username:  MParvin
   linkedin_username:  MParvin
-  meetup_name: mparvin
+  # meetup_name: mparvin
 
 # Build settings
 destination: _site
