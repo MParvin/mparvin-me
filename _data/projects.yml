@@ -22,7 +22,7 @@
 - name: Telegram Commander
   gh_user: mparvin
   repo: TR-CMD
-  img: https://github.com/MParvin/mparvin-me/blob/master/images/telegram-bot.png
+  img: https://raw.githubusercontent.com/MParvin/mparvin-me/master/images/telegram-bot.png
   desc: Telegram Remote Command Runner Bot - Safe & Easy run command on remote linux server (Without SSH) 
 
 - name: DastYar
