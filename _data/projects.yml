@@ -28,5 +28,5 @@
 - name: DastYar
   gh_user: mparvin
   repo: Dastyar 
-  img: https://github.com/MParvin/mparvin-me/blob/master/images/telegram-bot.png
+  img: https://raw.githubusercontent.com/MParvin/mparvin-me/master/images/dastyar.png
   desc: Collection of bash scripts for repetitive tasks
